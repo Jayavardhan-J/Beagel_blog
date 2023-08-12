@@ -1,0 +1,25 @@
+.div{
+    padding-left: 20px; 
+    padding-right:20px; 
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #F58D22;
+    margin: 6%;
+}
+body{
+    background-color: #2A2A2A;
+}
+.dog_image{
+    width: 100%; 
+    height: 100%
+    
+}
+.dog_more{
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+.paragraph{
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
