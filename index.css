@@ -4,20 +4,26 @@
     padding-top: 2%;
     padding-bottom: 2%;
     background-color: #F58D22;
-    margin: 6%;
+    margin: auto;
+    margin-bottom: 3%;
+    width: 60%;
 }
 body{
     background-color: #2A2A2A;
 }
 .dog_image{
-    width: 100%; 
-    height: 100%
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
     
 }
 .dog_more{
     color: black;
     font-weight: 700;
     font-size: 20px;
+    
 }
 .paragraph{
     font-size: 20px; 
